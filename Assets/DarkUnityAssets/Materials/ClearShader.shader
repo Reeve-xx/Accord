@@ -1,0 +1,1 @@
+﻿Shader "ClearShader" { SubShader { ColorMask 0 Pass {} }}
